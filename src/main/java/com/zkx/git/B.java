@@ -8,5 +8,6 @@ public class B {
         System.out.println("B");
         System.out.println("fix 1");
         System.out.println("master");
+        System.out.println("hot");
     }
 }
