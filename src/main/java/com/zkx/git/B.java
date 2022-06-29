@@ -5,5 +5,6 @@ public class B {
         System.out.println("hello");
         System.out.println("hello2");
         System.out.println("h1");
+        System.out.println("master-test");
     }
 }
