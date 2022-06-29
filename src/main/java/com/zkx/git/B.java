@@ -8,5 +8,6 @@ public class B {
         System.out.println("master-test");
         System.out.println("h2-test");
         System.out.println("push-test");
+        System.out.println("wangye-xiugai-test");
     }
 }
